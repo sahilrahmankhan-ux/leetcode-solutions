@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -98,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
