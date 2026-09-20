@@ -16,13 +16,13 @@ class Solution {
 
             int mid = (low + high) / 2;
 
-            // single element mil gaya
+           
             if (nums[mid] != nums[mid - 1] &&
                 nums[mid] != nums[mid + 1]) {
                 return nums[mid];
             }
 
-            // mid odd hai aur apne left wale se pair bana raha hai
+            
             if (mid % 2 == 1 && nums[mid] == nums[mid - 1]) {
                 low = mid + 1;
             }
