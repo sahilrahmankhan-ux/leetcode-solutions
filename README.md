@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Newton's Method
 |  |
 | ------- |
