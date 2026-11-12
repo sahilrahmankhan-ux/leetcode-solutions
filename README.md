@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Prefix Sum
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilrahmankhan-ux/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
